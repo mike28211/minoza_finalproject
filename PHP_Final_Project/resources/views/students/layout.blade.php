@@ -10,7 +10,8 @@
     </style>
     @yield('head')
 </head>
-<body style="background-color: #89CFF0;">
+<body style="background-color: #89CFF0
+;">
     <!-- Navbar -->
     <nav class="navbar navbar-light" style="background-color: #5F9EA0; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
         <span class="navbar-brand mb-0 h1" style="color: white; font-size: 25px;">MIÑOZA : Student Management</span>
